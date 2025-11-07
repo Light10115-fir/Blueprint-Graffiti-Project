@@ -17,3 +17,18 @@ Gonna try 3D printing it tomorrow
 image of the model
   
 
+## 11/8/2025 - Changed the model, started printing  
+
+So i changed up the model and made something so i can actually screw in or however ill make the support thing stay in the walls. Made two things that i cant describe without saying they're supposed to look like eyelashes, placed on each "side" of the spray paint holder. They're supposed to look like eyes cuz, in the middle of their kinda "inside", ill graffiti pupils. so, tired eyes with eyelashes. probably red or blue pupils, ill think about it.
+
+Screenshot of the model:
+
+![image](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI1NSwicHVyIjoiYmxvYl9pZCJ9fQ==--681729c5d124377e229390a80134166c04758fa5/image.png)
+
+I also started printing one of the holders:
+
+![IMG_20251108_003354829](https://blueprint.hackclub.com/user-attachments/blobs/proxy/eyJfcmFpbHMiOnsiZGF0YSI6OTI1NiwicHVyIjoiYmxvYl9pZCJ9fQ==--f4f61f98aa6435e666b14fd3f0b728c8a6ed4ac0/IMG_20251108_003354829.jpg)
+
+Gonna update when it finishes printing (so basically tomorrow / day after)
+  
+
